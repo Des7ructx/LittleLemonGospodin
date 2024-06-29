@@ -30,7 +30,7 @@ const WeekSpecials = () => {
   return (
     <section className="container grid week-specials">
       <div className="week-specials-header">
-        <h2>This week specials!</h2>
+        <h2>This week's specials!</h2>
         
       </div>
       {meals.map((meal, index) => 
