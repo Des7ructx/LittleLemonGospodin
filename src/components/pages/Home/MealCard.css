@@ -7,11 +7,11 @@
   flex-direction: column;
   border-radius: 1rem;
   overflow: hidden;
-  background-color: #EDEFEE;
+  background-color: #f5f9ed;
 }
 
 .meal-card:hover .meal-card-image img {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 .meal-card-image img {
