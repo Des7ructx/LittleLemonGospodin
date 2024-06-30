@@ -5,14 +5,14 @@
 
 .site-footer .container {
   grid-template-columns: repeat(4, auto);
-  padding-top: 3rem;
-  padding-bottom: 2.7rem;
+  padding-top: 2.9rem;
+  padding-bottom: 2.8rem;
 }
 
 .site-footer-logo {
   grid-column: 1;
-  min-width: 5rem;
-  width: 6rem;
+  min-width: 5.1rem;
+  width: 6.2rem;
 }
 
 .site-footer a {
@@ -22,8 +22,8 @@
 
 .site-footer h4 {
   text-transform: uppercase;
-  letter-spacing: 0.1875rem;
-  margin-bottom: 1rem;
+  letter-spacing: 0.1876rem;
+  margin-bottom: 1.1rem;
 }
 
 
